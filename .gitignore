@@ -1,0 +1,14 @@
+# build output
+out/
+*.bin
+*.elf
+*.o
+*.exe
+__pycache__/
+*.pyc
+# games and saves: bring your own, never commit them
+*.gb
+*.gbc
+*.cgb
+*.sav
+*.sa1
